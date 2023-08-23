@@ -1,0 +1,79 @@
+[
+    {
+        "id":1,
+        "title": "Web Development",
+        "image": "https://tse1.mm.bing.net/th?id=OIP.s1MvxCJgo77ijjC_LkZxXAHaEo&pid=Api&rs=1&c=1&qlt=95&w=179&h=112",
+        "description":"Web developers design and build websites. They are typically responsible for the appearance, of the site and technical aspects, such as site speed and how much traffic the site can handle. Web developers may also create site content that requires technical features."
+    },
+    {
+
+        "id":2,
+        "title": "App Development",
+        "image": "https://tse1.mm.bing.net/th?id=OIP.wrvuSBy9dt0U4jywkZcBggHaE7&pid=Api&rs=1&c=1&qlt=95&w=160&h=106",
+        "description":"iOS application development is the process of making mobile applications for Apple hardware, including iPhone, iPad and iPod Touch. The software is written in the Swift programming language or Objective-C and then deployed to the App Store for users to download."
+
+    },
+{
+ 
+    "id":3,
+    "title": "frontened Development",
+    "image": "https://tse1.mm.bing.net/th?id=OIP.hy25Y699BLUxBHn_L1v_sgHaEK&pid=Api&rs=1&c=1&qlt=95&w=203&h=114",
+    "description":"A Front-End Developer is someone who creates websites and web applications. The difference between Front-End and Back-End is that Front-End refers to how a web page looks, while back-end refers to how it works. You can think of Front-End as client-side and Back-End as server-side."   
+},
+{
+ 
+    "id":4,
+    "title": "backend Development",
+    "image": "https://tse1.mm.bing.net/th?id=OIP.dzA2qDv_g3kINbE4mPzCaAHaDo&pid=Api&rs=1&c=1&qlt=95&w=227&h=111",
+    "description":"That’s why back-end developers usually have a background in software engineering, have tried full stack development or changed several positions and technologies before settling in back-end domain. back-end development is a conscious choice, there is no place here for newbies and faint-hearted people."   
+},
+{
+ 
+    "id":5,
+    "title": "Python  Development",
+    "image": "https://tse1.mm.bing.net/th?id=OIP.BwB8i6hjLRm3VfhIhxNnUQHaEK&pid=Api&rs=1&c=1&qlt=95&w=196&h=109",
+    "description":" Python has a design philosophy that emphasizes code readability, notably using significant whitespace. It provides constructs that enable clear programming on both small and large scales."
+},
+{
+
+    "id":6,
+    "title": "Python  Development",
+    "image": "https://tse1.mm.bing.net/th?id=OIP.BwB8i6hjLRm3VfhIhxNnUQHaEK&pid=Api&rs=1&c=1&qlt=95&w=196&h=109",
+    "description":" Python has a design philosophy that "
+
+},
+{
+
+    "id":7,
+    "title": "Flutter  Development",
+    "image": "https://tse1.mm.bing.net/th?id=OIP.5TEuzGohcoY60Anv53zvEgAAAA&pid=Api&rs=1&c=1&qlt=95&w=226&h=117",
+    "description":" A resource to help developers evaluate and use Flutter. Google uses cookies to deliver its services, to personalize ads, and to analyze traffic. You can adjust your privacy controls anytime in your Google settings "
+
+},
+{
+
+    "id":8,
+    "title": "Java  Development",
+    "image": "https://tse1.mm.bing.net/th?id=OIP.fOdb_ET1sOd4uZStK4E8HAHaE8&pid=Api&rs=1&c=1&qlt=95&w=155&h=103",
+    "description": "Java is a widely used object-oriented programming language and software platform that runs on billions of devices, including notebook computers, mobile devices, gaming consoles, medical devices and many others. The rules and syntax of Java are based on the C and C++ "
+
+},
+{
+
+    "id":9,
+    "title": ".Net  Development",
+    "image": "https://tse1.mm.bing.net/th?id=OIP.aGWgLh-k_Kgmf_ni8EspGQHaHa&pid=Api&rs=1&c=1&qlt=95&w=111&h=111",
+    "description": "dotnet build has a new option to produce more modernized build output. This terminal logger output groups errors with the project they came from, better differentiates the different target frameworks for multi-targeted projects "
+
+},
+{
+
+    "id":10,
+    "title": "php  Development",
+    "image": "https://tse1.mm.bing.net/th?id=OIP.fLg0G-2i4WyPLorYoWw_mgHaC4&pid=Api&rs=1&c=1&qlt=95&w=248&h=96",
+    "description": "A PHP developer is essentially a software developer that is proficient in using PHP and various technologies built using it. By default, a PHP developer can be seen as a backend developer as they most likely have experience using the following backend technologies. These are the basic components of the popular LAMP stack."
+
+}
+
+
+]
